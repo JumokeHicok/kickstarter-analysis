@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this analysis is to look for relationships between theater campaign success rates and launch dates as well as success rates based on funding goals for plays.  This analysis will be used to...
+The purpose of this analysis is to look for relationships between theater campaign success rates and launch dates as well as success rates based on funding goals for plays.  
 
 ## Analysis and Challenges
 
@@ -29,4 +29,4 @@ To analyze outcomes based on goal amount I used Countifs formulas to calculate n
 
 - One limitation of this dataset is that it does not contain a full year of data for 2017.  Outcomes for January and February will be elevated because that is all that's available so far for 2017.  Another limitation is that we do not have as much data at the higher goal levels.  The reason for the higher fail rate at those levels could be unrelated to the goal amount.
 
-- What are some other possible tables and/or graphs that we could create?
+- Another graph that would be useful to see is one showing the percentage pledged of the goal amount for each month.  Instead of just looking at whether a campaign succeeded or failed, we would be able to get a better idea of exactly how much was raised vs expected.
